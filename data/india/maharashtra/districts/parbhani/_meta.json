@@ -1,0 +1,21 @@
+{
+  "name": "Parbhani",
+  "name_local": "परभणी",
+  "type": "district",
+  "parent": {
+    "state": "Maharashtra",
+    "division": "Chhatrapati Sambhajinagar",
+    "country": "India"
+  },
+  "code": {
+    "census_2011": "504",
+    "lgd": "487"
+  },
+  "coverage": {
+    "municipalities": ["parbhani-municipal-corporation"],
+    "tehsils": []
+  },
+  "contributors": ["@mahanvyakti"],
+  "created": "2026-01-18",
+  "last_updated": "2026-01-18"
+}

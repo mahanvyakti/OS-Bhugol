@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Parbhani Municipal Corporation Wards</name>
+    <description/>
+    <Style id="poly-0288D1-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-87CEAC-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffacce87</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dacce87</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-87CEAC-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffacce87</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dacce87</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-87CEAC-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-9FA8DA-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffdaa89f</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4ddaa89f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-9FA8DA-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffdaa89f</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4ddaa89f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-9FA8DA-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9FA8DA-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9FA8DA-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A1C2FA-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-A1C2FA-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-A1C2FA-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A1C2FA-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A1C2FA-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-B2EBF2-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4df2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-B2EBF2-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4df2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-B2EBF2-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-B2EBF2-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-B2EBF2-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-C5E1A5-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffa5e1c5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da5e1c5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-C5E1A5-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffa5e1c5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da5e1c5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-C5E1A5-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-C5E1A5-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-C5E1A5-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-CE93D8-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-CE93D8-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-CE93D8-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-EDA29B-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d9ba2ed</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-EDA29B-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d9ba2ed</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-EDA29B-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-EDA29B-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-EDA29B-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F57C00-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FADA80-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff80dafa</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80dafa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FADA80-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff80dafa</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80dafa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FADA80-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FADA80-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FADA80-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFCC80-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff80ccff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80ccff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFCC80-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff80ccff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80ccff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFCC80-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFCC80-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFCC80-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFF8D-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFFF8D-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d8dffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFFF8D-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFF8D-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFF8D-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFFFF-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFFFFF-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFFFFF-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFFFF-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFFFF-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ward Boundaries</name>
+      <Placemark>
+        <name>Ward01</name>
+        <styleUrl>#poly-B2EBF2-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>1</value></Data>
+          <Data name="ward_name_en"><value>Ward 01</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०१</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>8.5195</value></Data>
+          <Data name="perimeter_km"><value>13.1169</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2001-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7609754,19.2774907,0
+                76.761564,19.2775735,0
+                76.7621606,19.2776336,0
+                76.7633096,19.277755,0
+                76.7639289,19.2778118,0
+                76.7656117,19.2780445,0
+                76.7660525,19.2780417,0
+                76.7674657,19.2778578,0
+                76.7674147,19.2775236,0
+                76.7690777,19.2773768,0
+                76.7689503,19.2756172,0
+                76.7703953,19.2754241,0
+                76.7704392,19.275358,0
+                76.7709606,19.275307,0
+                76.7708257,19.2742021,0
+                76.7708162,19.2739326,0
+                76.770792,19.2728895,0
+                76.7708108,19.2720704,0
+                76.7719962,19.2720074,0
+                76.7731977,19.2719469,0
+                76.7743899,19.2719013,0
+                76.7748686,19.271824,0
+                76.7750474,19.2728502,0
+                76.7749847,19.2729852,0
+                76.775125,19.2741868,0
+                76.7753744,19.2751844,0
+                76.7758518,19.2773719,0
+                76.7760827,19.2787127,0
+                76.7761149,19.2814875,0
+                76.7759325,19.2817609,0
+                76.7762463,19.2840127,0
+                76.7785703,19.2940782,0
+                76.7799435,19.2960427,0
+                76.7828725,19.2999412,0
+                76.7848359,19.3063204,0
+                76.7797719,19.3069279,0
+                76.7796217,19.3053787,0
+                76.7527213,19.3046533,0
+                76.749449,19.2977678,0
+                76.7513233,19.2916673,0
+                76.751667,19.2907379,0
+                76.7518735,19.2903683,0
+                76.7520881,19.2900822,0
+                76.7536572,19.2882341,0
+                76.756774,19.28465,0
+                76.7572998,19.2837589,0
+                76.7580776,19.2823715,0
+                76.7601887,19.2788807,0
+                76.7605829,19.2782275,0
+                76.7608109,19.2778427,0
+                76.7609754,19.2774907,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward02</name>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>2</value></Data>
+          <Data name="ward_name_en"><value>Ward 02</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०२</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>6.9577</value></Data>
+          <Data name="perimeter_km"><value>13.7161</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2002-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7848359,19.3063204,0
+                76.7828725,19.2999412,0
+                76.7785703,19.2940782,0
+                76.7762463,19.2840127,0
+                76.7759325,19.2817609,0
+                76.7761149,19.2814875,0
+                76.7760732,19.2787516,0
+                76.7761375,19.27862,0
+                76.7754889,19.2756991,0
+                76.7756096,19.275694,0
+                76.775556,19.2753345,0
+                76.7756096,19.2753371,0
+                76.7762828,19.2757852,0
+                76.7787853,19.2753269,0
+                76.778847,19.2752814,0
+                76.7796356,19.2765473,0
+                76.7822472,19.2754462,0
+                76.783852,19.2747699,0
+                76.7864502,19.2766134,0
+                76.7873943,19.2774033,0
+                76.7888642,19.2787603,0
+                76.7911709,19.281363,0
+                76.7919863,19.2820719,0
+                76.7947651,19.2850492,0
+                76.7952586,19.285748,0
+                76.7956555,19.2863859,0
+                76.797576,19.2900417,0
+                76.7999163,19.2925081,0
+                76.8052823,19.3126899,0
+                76.806677,19.3161121,0
+                76.8022782,19.3190888,0
+                76.7991239,19.3049136,0
+                76.7848359,19.3063204,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward03</name>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>3</value></Data>
+          <Data name="ward_name_en"><value>Ward 03</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०३</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>7.6278</value></Data>
+          <Data name="perimeter_km"><value>15.4594</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2003-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.806677,19.3161121,0
+                76.8052823,19.3126899,0
+                76.8045622,19.3099481,0
+                76.7999163,19.2925081,0
+                76.797576,19.2900417,0
+                76.7974553,19.2897646,0
+                76.7960177,19.2870153,0
+                76.7947838,19.2851064,0
+                76.7923216,19.2824076,0
+                76.7909697,19.281086,0
+                76.7883734,19.278296,0
+                76.7867855,19.276868,0
+                76.783852,19.2747699,0
+                76.781861,19.2730702,0
+                76.7801068,19.2714447,0
+                76.7780906,19.2695947,0
+                76.777202,19.2684976,0
+                76.7774299,19.2684773,0
+                76.7775989,19.2682874,0
+                76.777666,19.2682267,0
+                76.7779208,19.2681887,0
+                76.7781702,19.2682241,0
+                76.7821587,19.269285,0
+                76.7838968,19.2696243,0
+                76.7857421,19.270075,0
+                76.7871905,19.2704193,0
+                76.7888481,19.270789,0
+                76.7896689,19.2709358,0
+                76.7900122,19.2710776,0
+                76.7904252,19.2712042,0
+                76.7910797,19.2713207,0
+                76.792909,19.2716448,0
+                76.7935688,19.271822,0
+                76.7944561,19.2721858,0
+                76.7969881,19.2729605,0
+                76.7972241,19.2732137,0
+                76.7992706,19.2736923,0
+                76.8009792,19.2741328,0
+                76.8028782,19.2746797,0
+                76.8035863,19.2746999,0
+                76.8069444,19.2795003,0
+                76.8071697,19.2817282,0
+                76.8074272,19.2841992,0
+                76.8076847,19.285536,0
+                76.8079851,19.2876929,0
+                76.8088112,19.287855,0
+                76.8091653,19.2880778,0
+                76.8098734,19.2887157,0
+                76.8125771,19.2922195,0
+                76.8146477,19.2954801,0
+                76.8197761,19.3039657,0
+                76.8212567,19.306335,0
+                76.8210636,19.3088259,0
+                76.8186603,19.3101624,0
+                76.8168579,19.3107699,0
+                76.816021,19.3109724,0
+                76.8149052,19.311823,0
+                76.8140469,19.3132911,0
+                76.8123303,19.3131899,0
+                76.8108926,19.3139189,0
+                76.8088756,19.3141011,0
+                76.8084465,19.3158223,0
+                76.806677,19.3161121,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward04</name>
+        <styleUrl>#poly-B2EBF2-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>4</value></Data>
+          <Data name="ward_name_en"><value>Ward 04</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०४</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>4.4920</value></Data>
+          <Data name="perimeter_km"><value>9.6959</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2004-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.8054932,19.2774402,0
+                76.80353,19.2746797,0
+                76.8028219,19.2746595,0
+                76.7971678,19.2731935,0
+                76.796901,19.2727987,0
+                76.7935751,19.2717353,0
+                76.7906139,19.2712187,0
+                76.7905782,19.2705206,0
+                76.7904736,19.2689799,0
+                76.7904231,19.2674802,0
+                76.7904478,19.2659604,0
+                76.7908742,19.265449,0
+                76.7911452,19.2653059,0
+                76.7912445,19.2651629,0
+                76.7912203,19.2648034,0
+                76.7906903,19.2627059,0
+                76.7896017,19.2599594,0
+                76.7897628,19.2598197,0
+                76.7901491,19.25968,0
+                76.7909272,19.259436,0
+                76.7916845,19.259235,0
+                76.7935263,19.2588836,0
+                76.7936265,19.2591531,0
+                76.7954256,19.2586691,0
+                76.7964274,19.2584506,0
+                76.7964782,19.2580946,0
+                76.7950966,19.2547138,0
+                76.7942351,19.2530822,0
+                76.7967403,19.2524061,0
+                76.7980116,19.252087,0
+                76.7985733,19.2520152,0
+                76.7991301,19.2520478,0
+                76.7995713,19.2521516,0
+                76.7998286,19.2522051,0
+                76.8000837,19.2523289,0
+                76.8005329,19.2526087,0
+                76.8015951,19.2532683,0
+                76.8034447,19.2543982,0
+                76.813514,19.2604916,0
+                76.813975,19.2607387,0
+                76.8146885,19.2611894,0
+                76.8153574,19.2664791,0
+                76.8152501,19.2680996,0
+                76.812525,19.2684946,0
+                76.8091079,19.2685605,0
+                76.8074932,19.2685958,0
+                76.8075736,19.2702568,0
+                76.8076595,19.2723938,0
+                76.8073752,19.2745408,0
+                76.807284,19.274875,0
+                76.8068933,19.2761338,0
+                76.8068289,19.277339,0
+                76.8054932,19.2774402,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward05</name>
+        <styleUrl>#poly-FFCC80-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>5</value></Data>
+          <Data name="ward_name_en"><value>Ward 05</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०५</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>1.5005</value></Data>
+          <Data name="perimeter_km"><value>6.2569</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2005-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7829902,19.2632095,0
+                76.7816893,19.2596114,0
+                76.7851624,19.2563663,0
+                76.7858682,19.2558031,0
+                76.7869166,19.2552167,0
+                76.7873082,19.2550901,0
+                76.7894915,19.2544418,0
+                76.7942551,19.2531099,0
+                76.7951107,19.254766,0
+                76.7964782,19.2580946,0
+                76.7964274,19.2584506,0
+                76.7936265,19.2591531,0
+                76.7935263,19.2588836,0
+                76.79164,19.2592529,0
+                76.7909272,19.259436,0
+                76.7904008,19.2595998,0
+                76.7897628,19.2598197,0
+                76.7896017,19.2599594,0
+                76.7906903,19.2627059,0
+                76.7911652,19.2645398,0
+                76.7912445,19.2651629,0
+                76.7911452,19.2653059,0
+                76.7908742,19.265449,0
+                76.7904478,19.2659604,0
+                76.7904732,19.2690518,0
+                76.7906139,19.2712187,0
+                76.7900122,19.2710776,0
+                76.7896689,19.2709358,0
+                76.7890623,19.2708293,0
+                76.7875389,19.270495,0
+                76.7854038,19.2699836,0
+                76.7855647,19.2685404,0
+                76.7855701,19.267163,0
+                76.7851195,19.2672136,0
+                76.7844436,19.2643829,0
+                76.7842076,19.2634131,0
+                76.783258,19.2639676,0
+                76.7829902,19.2632095,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward06</name>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>6</value></Data>
+          <Data name="ward_name_en"><value>Ward 06</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०६</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.4852</value></Data>
+          <Data name="perimeter_km"><value>3.2441</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2006-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7765725,19.2674805,0
+                76.7771219,19.2673217,0
+                76.7769824,19.2668963,0
+                76.7776557,19.2665874,0
+                76.7775296,19.2662912,0
+                76.7774443,19.2657832,0
+                76.7776691,19.265724,0
+                76.7775671,19.2645061,0
+                76.7775068,19.264501,0
+                76.777362,19.2645213,0
+                76.7772983,19.2642945,0
+                76.7786622,19.2640544,0
+                76.7788124,19.2640139,0
+                76.7799177,19.2637184,0
+                76.7798332,19.2634513,0
+                76.7802758,19.2633159,0
+                76.7803026,19.2633969,0
+                76.7807854,19.2632652,0
+                76.78089,19.263564,0
+                76.7823545,19.2630702,0
+                76.7824645,19.2634171,0
+                76.7829902,19.2632095,0
+                76.783258,19.2639676,0
+                76.7842076,19.2634131,0
+                76.7842041,19.263434,0
+                76.7847191,19.2655331,0
+                76.7851195,19.2672136,0
+                76.7855701,19.267163,0
+                76.7855647,19.2685404,0
+                76.7854038,19.2699836,0
+                76.7821844,19.2692855,0
+                76.7788678,19.2684043,0
+                76.7781702,19.2682241,0
+                76.7781316,19.268217,0
+                76.7779398,19.2681917,0
+                76.7778955,19.2681917,0
+                76.7776528,19.2682322,0
+                76.7775989,19.2682874,0
+                76.7774299,19.2684773,0
+                76.777202,19.2684976,0
+                76.7771593,19.2684335,0
+                76.7765725,19.2674805,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward07</name>
+        <styleUrl>#poly-FFFF8D-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>7</value></Data>
+          <Data name="ward_name_en"><value>Ward 07</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०७</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.5264</value></Data>
+          <Data name="perimeter_km"><value>3.3404</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2007-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7765725,19.2674805,0
+                76.7771653,19.2684503,0
+                76.7780906,19.2695947,0
+                76.7813308,19.2725925,0
+                76.7823661,19.2735394,0
+                76.7832298,19.2742737,0
+                76.783852,19.2747699,0
+                76.7796356,19.2765473,0
+                76.778847,19.2752814,0
+                76.7787853,19.2753269,0
+                76.7770607,19.2756206,0
+                76.7762828,19.2757852,0
+                76.7756096,19.2753371,0
+                76.775556,19.2753345,0
+                76.7756096,19.275694,0
+                76.7754889,19.2756991,0
+                76.7753744,19.2751844,0
+                76.7751295,19.274223,0
+                76.7749847,19.2729852,0
+                76.7750474,19.2728502,0
+                76.7748686,19.271824,0
+                76.7749798,19.2718159,0
+                76.7748407,19.2715502,0
+                76.774202,19.2706259,0
+                76.7741661,19.2704132,0
+                76.7741782,19.2689955,0
+                76.7741661,19.2681167,0
+                76.7749225,19.2677926,0
+                76.7750781,19.2676939,0
+                76.775762,19.2675901,0
+                76.7761483,19.2675875,0
+                76.7765725,19.2674805,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward08</name>
+        <styleUrl>#poly-FFFFFF-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>8</value></Data>
+          <Data name="ward_name_en"><value>Ward 08</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०८</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.5670</value></Data>
+          <Data name="perimeter_km"><value>4.6647</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2008-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7753389,19.2639255,0
+                76.7752712,19.2643061,0
+                76.7752283,19.2645972,0
+                76.7751827,19.2648403,0
+                76.7751585,19.2652302,0
+                76.775475,19.2652404,0
+                76.7757379,19.2652353,0
+                76.7761563,19.2651847,0
+                76.7771514,19.2650796,0
+                76.7771071,19.264696,0
+                76.7772828,19.2646783,0
+                76.7773244,19.2645884,0
+                76.777362,19.2645213,0
+                76.7775068,19.264501,0
+                76.7775671,19.2645061,0
+                76.7776691,19.265724,0
+                76.7774438,19.2657746,0
+                76.7775296,19.2662912,0
+                76.7776557,19.2665874,0
+                76.7769824,19.2668963,0
+                76.7771219,19.2673217,0
+                76.7765238,19.2674862,0
+                76.7761483,19.2675875,0
+                76.775762,19.2675901,0
+                76.7755287,19.2676306,0
+                76.7750781,19.2676939,0
+                76.7749225,19.2677926,0
+                76.7741661,19.2681167,0
+                76.7741876,19.2688181,0
+                76.7741715,19.2692561,0
+                76.7741688,19.269922,0
+                76.7741661,19.2704132,0
+                76.774202,19.2706259,0
+                76.7742932,19.2707499,0
+                76.7748323,19.2715348,0
+                76.7749798,19.2718159,0
+                76.7748686,19.271824,0
+                76.7743899,19.2719013,0
+                76.7734262,19.2719347,0
+                76.7725491,19.271979,0
+                76.7708108,19.2720704,0
+                76.7708663,19.2700139,0
+                76.7709414,19.2696037,0
+                76.7694708,19.269931,0
+                76.7693475,19.269479,0
+                76.7693488,19.2693157,0
+                76.7691984,19.2690673,0
+                76.7688562,19.2687731,0
+                76.7688436,19.2687676,0
+                76.7687583,19.2684325,0
+                76.7687502,19.2683654,0
+                76.7686322,19.2666627,0
+                76.7685848,19.2665466,0
+                76.7706205,19.2662845,0
+                76.7705025,19.265292,0
+                76.769722,19.2634335,0
+                76.7692243,19.2628316,0
+                76.7684594,19.2619073,0
+                76.7693885,19.261853,0
+                76.7693777,19.2614073,0
+                76.7700215,19.2614327,0
+                76.7700134,19.2615871,0
+                76.7710273,19.2616935,0
+                76.7710166,19.2618327,0
+                76.7708851,19.2626455,0
+                76.7707939,19.2633697,0
+                76.7715812,19.2636368,0
+                76.7728418,19.2641255,0
+                76.7730711,19.2641799,0
+                76.7734721,19.2641293,0
+                76.7745678,19.2641014,0
+                76.7747918,19.2640698,0
+                76.7751244,19.2639938,0
+                76.7753389,19.2639255,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward09</name>
+        <styleUrl>#poly-EDA29B-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>9</value></Data>
+          <Data name="ward_name_en"><value>Ward 09</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ०९</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.8780</value></Data>
+          <Data name="perimeter_km"><value>3.8753</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2009-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7609754,19.2774907,0
+                76.7610606,19.2771014,0
+                76.7611242,19.2767679,0
+                76.7612442,19.2757938,0
+                76.7614823,19.2739917,0
+                76.76166,19.2726102,0
+                76.7619312,19.2707243,0
+                76.7626101,19.2690613,0
+                76.7678592,19.2690335,0
+                76.7682159,19.2689929,0
+                76.7688436,19.2687676,0
+                76.7691984,19.2690673,0
+                76.7693488,19.2693157,0
+                76.7693475,19.269479,0
+                76.7694708,19.269931,0
+                76.7709414,19.2696037,0
+                76.7708663,19.2700139,0
+                76.7708268,19.2715885,0
+                76.7707927,19.2729073,0
+                76.7708257,19.2742021,0
+                76.7709606,19.275307,0
+                76.7704392,19.275358,0
+                76.7703953,19.2754241,0
+                76.7689503,19.2756172,0
+                76.7690777,19.2773768,0
+                76.7674147,19.2775236,0
+                76.7674657,19.2778578,0
+                76.7660616,19.2780413,0
+                76.7656117,19.2780445,0
+                76.7652194,19.2779984,0
+                76.7644375,19.2778756,0
+                76.7638836,19.2778034,0
+                76.7628094,19.2776933,0
+                76.7616966,19.2775869,0
+                76.7609754,19.2774907,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward10</name>
+        <styleUrl>#poly-9FA8DA-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>10</value></Data>
+          <Data name="ward_name_en"><value>Ward 10</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १०</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>3.4849</value></Data>
+          <Data name="perimeter_km"><value>9.4735</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2010-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7396988,19.2814867,0
+                76.743545,19.2811576,0
+                76.7471607,19.2805196,0
+                76.7484749,19.2813601,0
+                76.7491193,19.281079,0
+                76.7498107,19.2808487,0
+                76.7501594,19.2807981,0
+                76.7525734,19.2794613,0
+                76.751597,19.2765877,0
+                76.7513952,19.2766316,0
+                76.7510552,19.275699,0
+                76.7514763,19.2755597,0
+                76.7513395,19.2751901,0
+                76.7511679,19.2752357,0
+                76.7506207,19.2734684,0
+                76.7519719,19.2729427,0
+                76.7544235,19.2719198,0
+                76.7544868,19.2719042,0
+                76.7561491,19.2714622,0
+                76.756943,19.2713964,0
+                76.7587525,19.2710235,0
+                76.7619312,19.2707243,0
+                76.7609754,19.2774907,0
+                76.7598362,19.2794697,0
+                76.756774,19.28465,0
+                76.7518735,19.2903683,0
+                76.7515293,19.2910445,0
+                76.7507031,19.293566,0
+                76.7499307,19.2961988,0
+                76.743032,19.2949027,0
+                76.7402372,19.2944065,0
+                76.7378714,19.2940521,0
+                76.7379036,19.2937888,0
+                76.7374959,19.2903762,0
+                76.7402747,19.2881585,0
+                76.7407253,19.287642,0
+                76.7396988,19.2814867,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward11</name>
+        <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>11</value></Data>
+          <Data name="ward_name_en"><value>Ward 11</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग ११</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>1.8828</value></Data>
+          <Data name="perimeter_km"><value>6.0080</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2011-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7544868,19.2719042,0
+                76.7506207,19.2734684,0
+                76.7511679,19.2752357,0
+                76.7513395,19.2751901,0
+                76.7514763,19.2755597,0
+                76.7510552,19.275699,0
+                76.7513878,19.2766484,0
+                76.751597,19.2765877,0
+                76.7525734,19.2794613,0
+                76.750905,19.2804132,0
+                76.7506368,19.280555,0
+                76.7501594,19.2807981,0
+                76.7498107,19.2808487,0
+                76.7494352,19.2809297,0
+                76.7489309,19.2811373,0
+                76.7484749,19.2813601,0
+                76.7471607,19.2805196,0
+                76.743545,19.2811576,0
+                76.7396988,19.2814867,0
+                76.7391355,19.2793803,0
+                76.7382216,19.2746681,0
+                76.7380392,19.2733566,0
+                76.7379051,19.2731793,0
+                76.7376213,19.2727913,0
+                76.7512294,19.2664451,0
+                76.7513969,19.2666339,0
+                76.7516262,19.266639,0
+                76.7522016,19.2669618,0
+                76.7522928,19.2671011,0
+                76.7523008,19.2673973,0
+                76.7522311,19.2678278,0
+                76.7524217,19.26792,0
+                76.7526093,19.2678987,0
+                76.7531847,19.2692581,0
+                76.753917,19.2707469,0
+                76.7544868,19.2719042,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward12</name>
+        <styleUrl>#poly-0288D1-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>12</value></Data>
+          <Data name="ward_name_en"><value>Ward 12</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १२</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>3.3395</value></Data>
+          <Data name="perimeter_km"><value>8.3259</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2012-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7619965,19.2617289,0
+                76.7618811,19.2617732,0
+                76.7606057,19.2622467,0
+                76.7592163,19.2627581,0
+                76.7583956,19.2631126,0
+                76.7561533,19.2641356,0
+                76.7376213,19.2727913,0
+                76.7363178,19.2703708,0
+                76.7354863,19.2688162,0
+                76.7353094,19.2685377,0
+                76.7349124,19.2667704,0
+                76.738402,19.2640459,0
+                76.7409876,19.2611797,0
+                76.7443565,19.2574524,0
+                76.7469958,19.2544645,0
+                76.7494419,19.2526717,0
+                76.7509547,19.2526919,0
+                76.7517808,19.2532997,0
+                76.75221,19.2534212,0
+                76.7525426,19.253249,0
+                76.7528348,19.2525819,0
+                76.7532639,19.2519134,0
+                76.7536931,19.2513462,0
+                76.7539452,19.2511234,0
+                76.7623352,19.2563042,0
+                76.7617022,19.2560232,0
+                76.7622279,19.2577172,0
+                76.7620401,19.257783,0
+                76.7619731,19.2576159,0
+                76.7606427,19.2584895,0
+                76.7619903,19.2617178,0
+                76.7619965,19.2617289,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward13</name>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>13</value></Data>
+          <Data name="ward_name_en"><value>Ward 13</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १३</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.9405</value></Data>
+          <Data name="perimeter_km"><value>4.2369</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2013-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7512628,19.266458,0
+                76.7512436,19.2664281,0
+                76.7562142,19.2641254,0
+                76.7590949,19.2627986,0
+                76.7619965,19.2617289,0
+                76.7645298,19.2608123,0
+                76.7646425,19.2610782,0
+                76.7645666,19.2611148,0
+                76.7644566,19.2612161,0
+                76.7640167,19.2617124,0
+                76.7638397,19.2621479,0
+                76.7638021,19.2622796,0
+                76.7636365,19.2629713,0
+                76.7633763,19.2649842,0
+                76.7632046,19.2663743,0
+                76.7629445,19.2679973,0
+                76.7628962,19.2682074,0
+                76.7626101,19.2690613,0
+                76.7619239,19.2707432,0
+                76.7608778,19.2708039,0
+                76.7600329,19.2708723,0
+                76.7588232,19.2710065,0
+                76.7579623,19.2711635,0
+                76.7576618,19.2712141,0
+                76.756943,19.2713964,0
+                76.7566882,19.2714141,0
+                76.7561491,19.2714622,0
+                76.7554088,19.2716192,0
+                76.7549394,19.2717281,0
+                76.7544868,19.2719042,0
+                76.7538055,19.2705167,0
+                76.7534461,19.2698078,0
+                76.7526093,19.2678987,0
+                76.7524215,19.2679088,0
+                76.7522311,19.2678278,0
+                76.7522579,19.2676455,0
+                76.7523008,19.2673973,0
+                76.7522928,19.2671011,0
+                76.7522016,19.2669618,0
+                76.7516262,19.266639,0
+                76.7513969,19.2666339,0
+                76.7512628,19.266458,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward14</name>
+        <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>14</value></Data>
+          <Data name="ward_name_en"><value>Ward 14</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १४</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>0.5638</value></Data>
+          <Data name="perimeter_km"><value>3.1100</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2014-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7626101,19.2690613,0
+                76.7629086,19.2682291,0
+                76.7630266,19.2675151,0
+                76.7631017,19.2671606,0
+                76.763622,19.2631905,0
+                76.763681,19.2627701,0
+                76.7638205,19.2622232,0
+                76.7640405,19.2617168,0
+                76.7642604,19.2614231,0
+                76.7645769,19.2611142,0
+                76.7649551,19.2609394,0
+                76.7670767,19.2602381,0
+                76.769722,19.2634335,0
+                76.7705025,19.265292,0
+                76.7706205,19.2662845,0
+                76.7703389,19.2663326,0
+                76.7697113,19.2664238,0
+                76.7685848,19.2665466,0
+                76.7686223,19.2666643,0
+                76.76865,19.2670327,0
+                76.7687416,19.2683763,0
+                76.7688436,19.2687676,0
+                76.7682159,19.2689929,0
+                76.7678592,19.2690335,0
+                76.7626101,19.2690613,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward15</name>
+        <styleUrl>#poly-A1C2FA-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>15</value></Data>
+          <Data name="ward_name_en"><value>Ward 15</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १५</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>5.5389</value></Data>
+          <Data name="perimeter_km"><value>16.0100</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2015-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7670767,19.2602381,0
+                76.7649551,19.2609394,0
+                76.7646425,19.2610782,0
+                76.7645298,19.2608123,0
+                76.7656537,19.2604046,0
+                76.7669304,19.2599615,0
+                76.7685666,19.2593488,0
+                76.7779626,19.256028,0
+                76.7793535,19.255411,0
+                76.7803942,19.2548438,0
+                76.7859839,19.2510759,0
+                76.7876143,19.2500547,0
+                76.7912406,19.2480998,0
+                76.7968196,19.2450914,0
+                76.8116164,19.2369618,0
+                76.8136441,19.235807,0
+                76.8153753,19.2411682,0
+                76.8148309,19.2414593,0
+                76.8151099,19.242528,0
+                76.8157,19.2453135,0
+                76.8161881,19.2515682,0
+                76.816392,19.2524089,0
+                76.8167246,19.2548905,0
+                76.8143642,19.2553564,0
+                76.814375,19.2559438,0
+                76.8146325,19.2600358,0
+                76.8135703,19.2605118,0
+                76.8016632,19.2532969,0
+                76.8001826,19.2523671,0
+                76.7998849,19.2522253,0
+                76.7996033,19.252162,0
+                76.7991527,19.2520607,0
+                76.7986296,19.2520354,0
+                76.7983292,19.2520607,0
+                76.7979886,19.2521215,0
+                76.7973234,19.2522835,0
+                76.7956899,19.2527115,0
+                76.7934342,19.253342,0
+                76.78822,19.2548005,0
+                76.7870988,19.2551399,0
+                76.7867877,19.2552614,0
+                76.786203,19.2556007,0
+                76.7858682,19.2558031,0
+                76.7853317,19.2562184,0
+                76.7816893,19.2596114,0
+                76.7823438,19.2614497,0
+                76.7829902,19.2632095,0
+                76.7825369,19.2633867,0
+                76.7824645,19.2634171,0
+                76.7823545,19.2630702,0
+                76.78089,19.263564,0
+                76.7807854,19.2632652,0
+                76.7803026,19.2633969,0
+                76.7802758,19.2633159,0
+                76.7798332,19.2634513,0
+                76.7799177,19.2637184,0
+                76.7787831,19.2640261,0
+                76.7772983,19.2642945,0
+                76.777362,19.2645213,0
+                76.7772828,19.2646783,0
+                76.7771071,19.264696,0
+                76.7771514,19.2650796,0
+                76.7757379,19.2652353,0
+                76.7754658,19.265238,0
+                76.7751585,19.2652302,0
+                76.7751829,19.2648291,0
+                76.7752379,19.2645316,0
+                76.7752647,19.2643316,0
+                76.7753425,19.2639176,0
+                76.7751244,19.2639938,0
+                76.7747918,19.2640698,0
+                76.7745678,19.2641014,0
+                76.773646,19.2641208,0
+                76.7733456,19.2641435,0
+                76.7730711,19.2641799,0
+                76.7728418,19.2641255,0
+                76.7715686,19.2636308,0
+                76.7707939,19.2633697,0
+                76.7708886,19.2626205,0
+                76.7709793,19.2620654,0
+                76.7710142,19.2618552,0
+                76.7710273,19.2616935,0
+                76.7700134,19.2615871,0
+                76.7700215,19.2614327,0
+                76.7693777,19.2614073,0
+                76.7693885,19.261853,0
+                76.7684701,19.2619073,0
+                76.768454,19.2619033,0
+                76.767707,19.2609918,0
+                76.7670767,19.2602381,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ward16</name>
+        <styleUrl>#poly-C5E1A5-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="ward_number"><value>16</value></Data>
+          <Data name="ward_name_en"><value>Ward 16</value></Data>
+          <Data name="ward_name_mr"><value>प्रभाग १६</value></Data>
+          <Data name="entity_type"><value>ward</value></Data>
+          <Data name="parent_municipality"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="parent_municipality_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>11.5308</value></Data>
+          <Data name="perimeter_km"><value>17.6531</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/upload/mahanagarpalika-Ward%2016-min.jpg</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7543165,19.2506912,0
+                76.754466,19.2505295,0
+                76.7545947,19.2501496,0
+                76.7548039,19.2498559,0
+                76.7555871,19.2494406,0
+                76.755791,19.2492178,0
+                76.7561879,19.2486809,0
+                76.7569712,19.2479719,0
+                76.7572394,19.2475769,0
+                76.7575612,19.2459663,0
+                76.7578724,19.2453788,0
+                76.7583444,19.2448724,0
+                76.7586663,19.2443659,0
+                76.7591491,19.2438392,0
+                76.7595032,19.2436265,0
+                76.7598143,19.2431605,0
+                76.7602971,19.2429174,0
+                76.7607584,19.2430288,0
+                76.761252,19.242968,0
+                76.761606,19.2427452,0
+                76.7623034,19.242492,0
+                76.7629042,19.2420564,0
+                76.7634943,19.2413777,0
+                76.7637947,19.2407598,0
+                76.7642668,19.2405167,0
+                76.7651573,19.2403648,0
+                76.76564,19.2404458,0
+                76.7663911,19.240537,0
+                76.766831,19.2403242,0
+                76.7680755,19.2395544,0
+                76.7682525,19.2389114,0
+                76.7706772,19.2391342,0
+                76.771793,19.2395596,0
+                76.7722436,19.2399446,0
+                76.7728444,19.2399243,0
+                76.7732307,19.2398838,0
+                76.7735311,19.2398838,0
+                76.7741104,19.2398838,0
+                76.7745181,19.2396609,0
+                76.7750546,19.2396609,0
+                76.775591,19.2396407,0
+                76.7759558,19.2393976,0
+                76.7762133,19.2387493,0
+                76.7764278,19.2382833,0
+                76.7770501,19.237554,0
+                76.7777153,19.2375337,0
+                76.7783376,19.2372096,0
+                76.7788955,19.2372298,0
+                76.780419,19.2372298,0
+                76.7817064,19.2369867,0
+                76.7832306,19.2365045,0
+                76.7840889,19.2360587,0
+                76.7850116,19.2338099,0
+                76.7856768,19.2331616,0
+                76.7862776,19.2328172,0
+                76.7876509,19.2324525,0
+                76.7883804,19.232027,0
+                76.788831,19.2315813,0
+                76.7895177,19.2311964,0
+                76.790376,19.2311964,0
+                76.7911485,19.2311964,0
+                76.7916634,19.2311558,0
+                76.7922643,19.2307101,0
+                76.7922643,19.2302644,0
+                76.7922643,19.2291298,0
+                76.7924145,19.2285625,0
+                76.7945651,19.228101,0
+                76.7952517,19.2280199,0
+                76.7957774,19.2276147,0
+                76.7959276,19.2273615,0
+                76.796743,19.2263484,0
+                76.7971829,19.225543,0
+                76.7976871,19.2252847,0
+                76.7982826,19.2251125,0
+                76.7983684,19.2249605,0
+                76.7987064,19.2246718,0
+                76.7989317,19.2244692,0
+                76.7996452,19.2237753,0
+                76.7997685,19.2234865,0
+                76.7999187,19.2231016,0
+                76.8002138,19.2227723,0
+                76.8007771,19.2223519,0
+                76.8010453,19.2221088,0
+                76.8013349,19.2219771,0
+                76.8016139,19.2217643,0
+                76.8018177,19.221506,0
+                76.8020806,19.2214047,0
+                76.802263,19.2213743,0
+                76.8023381,19.2213287,0
+                76.8026278,19.2211869,0
+                76.8028799,19.2211616,0
+                76.8030355,19.2210349,0
+                76.8035022,19.2209235,0
+                76.8041835,19.2208576,0
+                76.8045006,19.2207946,0
+                76.8081913,19.2176439,0
+                76.8136264,19.2358079,0
+                76.7888577,19.2493558,0
+                76.7875676,19.2500775,0
+                76.7831344,19.2529891,0
+                76.7803942,19.2548438,0
+                76.779386,19.2553769,0
+                76.7783829,19.2558276,0
+                76.7780181,19.2559796,0
+                76.7746653,19.2571646,0
+                76.7645298,19.2608123,0
+                76.7619965,19.2617289,0
+                76.7606427,19.2584895,0
+                76.7619731,19.2576159,0
+                76.7620401,19.257783,0
+                76.7622279,19.2577172,0
+                76.7617213,19.2560908,0
+                76.7617267,19.2560401,0
+                76.7617562,19.255949,0
+                76.7583712,19.2538422,0
+                76.7539452,19.2511234,0
+                76.7543165,19.2506912,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Municipal Corporation Boundary</name>
+      <Placemark>
+        <name>Parbhani City (Municipal Corporation)</name>
+        <styleUrl>#poly-FADA80-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="name_en"><value>Parbhani Municipal Corporation</value></Data>
+          <Data name="name_mr"><value>परभणी महानगरपालिका</value></Data>
+          <Data name="entity_type"><value>municipal_corporation</value></Data>
+          <Data name="district"><value>Parbhani</value></Data>
+          <Data name="district_mr"><value>परभणी</value></Data>
+          <Data name="state"><value>Maharashtra</value></Data>
+          <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+          <Data name="country"><value>India</value></Data>
+          <Data name="country_mr"><value>भारत</value></Data>
+          <Data name="area_sq_km"><value>58.8953</value></Data>
+          <Data name="perimeter_km"><value>37.0466</value></Data>
+          <Data name="author"><value>mahanvyakti</value></Data>
+          <Data name="source_url"><value>https://pcmcparbhani.org/en/pcmc/election-2025</value></Data>
+          <Data name="data_year"><value>2025</value></Data>
+          <Data name="created_date"><value>2026-01-18</value></Data>
+        </ExtendedData>
+
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                76.7349124,19.2667704,0
+                76.738402,19.2640459,0
+                76.7469958,19.2544645,0
+                76.7494419,19.2526717,0
+                76.7509547,19.2526919,0
+                76.7517392,19.2532899,0
+                76.75221,19.2534212,0
+                76.7525426,19.253249,0
+                76.7527738,19.2524491,0
+                76.7538467,19.2512539,0
+                76.7548039,19.2498559,0
+                76.7555871,19.2494406,0
+                76.7561879,19.2486809,0
+                76.7572394,19.2475769,0
+                76.7575612,19.2459663,0
+                76.7581382,19.2451561,0
+                76.7589322,19.2438799,0
+                76.7595032,19.2436265,0
+                76.7598143,19.2431605,0
+                76.7602971,19.2429174,0
+                76.7609706,19.2429885,0
+                76.7623034,19.242492,0
+                76.7633524,19.2414285,0
+                76.7637947,19.2407598,0
+                76.7642668,19.2405167,0
+                76.7651573,19.2403648,0
+                76.7663911,19.240537,0
+                76.7680755,19.2395544,0
+                76.7682525,19.2389114,0
+                76.7706772,19.2391342,0
+                76.7722436,19.2399446,0
+                76.7741104,19.2398838,0
+                76.7745181,19.2396609,0
+                76.7754116,19.239666,0
+                76.7759558,19.2393976,0
+                76.7764278,19.2382833,0
+                76.7770501,19.237554,0
+                76.7783376,19.2372096,0
+                76.7801323,19.2372551,0
+                76.7812052,19.237093,0
+                76.7840889,19.2360587,0
+                76.7850116,19.2338099,0
+                76.7859474,19.2329398,0
+                76.7876509,19.2324525,0
+                76.788831,19.2315813,0
+                76.7895177,19.2311964,0
+                76.7915049,19.2312582,0
+                76.7922643,19.2307101,0
+                76.7922643,19.2291298,0
+                76.7924145,19.2285625,0
+                76.7952517,19.2280199,0
+                76.7956248,19.2277329,0
+                76.7971829,19.225543,0
+                76.7982826,19.2251125,0
+                76.7996452,19.2237753,0
+                76.7999187,19.2231016,0
+                76.8010453,19.2221088,0
+                76.8018177,19.221506,0
+                76.8023625,19.2211683,0
+                76.8028799,19.2211616,0
+                76.8039718,19.2207833,0
+                76.8045006,19.2207946,0
+                76.8081913,19.2176439,0
+                76.8113747,19.2283204,0
+                76.8136441,19.235807,0
+                76.8153753,19.2411682,0
+                76.8148309,19.2414593,0
+                76.8157,19.2453135,0
+                76.8161383,19.2514159,0
+                76.816392,19.2524089,0
+                76.8167246,19.2548905,0
+                76.8143642,19.2553564,0
+                76.8146363,19.2598632,0
+                76.8153574,19.2664791,0
+                76.8152501,19.2680996,0
+                76.812525,19.2684946,0
+                76.8074932,19.2685958,0
+                76.8076595,19.2723938,0
+                76.8073752,19.2745408,0
+                76.8068933,19.2761338,0
+                76.8069759,19.2773033,0
+                76.8054932,19.2774402,0
+                76.8069444,19.2795003,0
+                76.807405,19.2839264,0
+                76.8079851,19.2876929,0
+                76.8088112,19.287855,0
+                76.8098734,19.2887157,0
+                76.8125771,19.2922195,0
+                76.8212567,19.306335,0
+                76.8210636,19.3088259,0
+                76.8186603,19.3101624,0
+                76.8168579,19.3107699,0
+                76.816021,19.3109724,0
+                76.8149052,19.311823,0
+                76.8140469,19.3132911,0
+                76.8123303,19.3131899,0
+                76.8108926,19.3139189,0
+                76.8088756,19.3141011,0
+                76.8084465,19.3158223,0
+                76.806677,19.3161121,0
+                76.8022782,19.3190888,0
+                76.7991239,19.3049136,0
+                76.7848359,19.3063204,0
+                76.7797719,19.3069279,0
+                76.7796217,19.3053787,0
+                76.7527213,19.3046533,0
+                76.7506924,19.3006147,0
+                76.749449,19.2977678,0
+                76.7499307,19.2961988,0
+                76.7402372,19.2944065,0
+                76.7378714,19.2940521,0
+                76.7379036,19.2937888,0
+                76.7374959,19.2903762,0
+                76.7402747,19.2881585,0
+                76.7407253,19.287642,0
+                76.7396988,19.2814867,0
+                76.7390585,19.2791194,0
+                76.7382324,19.2747748,0
+                76.7380392,19.2733566,0
+                76.7376213,19.2727913,0
+                76.7353094,19.2685377,0
+                76.7349124,19.2667704,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
