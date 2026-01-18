@@ -1,0 +1,37 @@
+{
+  "name": "Parbhani Municipal Corporation",
+  "name_local": "परभणी महानगरपालिका",
+  "type": "municipal_corporation",
+  "parent": {
+    "district": "Parbhani",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "location": {
+    "lat": 19.2684,
+    "lng": 76.7745
+  },
+  "units": {
+    "wards": 16
+  },
+  "sources": [
+    {
+      "title": "Official Ward Delimitation Map",
+      "type": "manual_trace",
+      "description": "Hand-traced from official Parbhani Municipal Corporation ward boundary maps, along with Parbhani Municipal Corporation Outline",
+      "accessed": "2026-01-18",
+      "department": "Parbhani Municipal Corporation"
+    }
+  ],
+  "data_files": {
+    "wards": {
+      "kml": "wards/wards.kml",
+      "geojson": "wards/wards.geojson"
+    }
+  },
+  "contributors": ["@mahanvyakti"],
+  "created": "2026-01-18",
+  "last_updated": "2026-01-18",
+  "notes": "Hand-traced ward boundaries from official government ward delimitation documents, along with Parbhani Municipal Corporation Outline. 16 wards covering the entire municipal corporation area.",
+  "known_issues": []
+}
