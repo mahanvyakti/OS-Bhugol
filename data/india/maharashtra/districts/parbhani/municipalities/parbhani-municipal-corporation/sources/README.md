@@ -43,9 +43,9 @@ Each ward image contains:
 
 ## Overall Map
 
-| File | Description |
-|------|-------------|
-| [mahanagar palika prabhag rachna map.jpg](mahanagar%20palika%20prabhag%20rachna%20map.jpg) | Complete ward formation map showing all 16 wards |
+| File | Description | Source |
+|------|-------------|--------|
+| [mahanagar_palika_prabhag_rachna_map.jpg](mahanagar_palika_prabhag_rachna_map.jpg) | Complete ward formation map showing all 16 wards | [Link](https://pcmcparbhani.org/upload/mahanagar%20palika%20prabhag%20rachna%20map.jpg) |
 
 ---
 
