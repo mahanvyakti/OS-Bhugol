@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ward 15</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>Ward 15</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>15</value></Data>
+        <Data name="ward_name_en"><value>Ward 15</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग १५</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Nanded Waghala City Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>नांदेड वाघाळा शहर महानगरपालिका</value></Data>
+        <Data name="district"><value>Nanded</value></Data>
+        <Data name="district_mr"><value>नांदेड</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="author"><value>MC Nanded Waghala</value></Data>
+        <Data name="source_url"><value>https://www.google.com/maps/d/viewer?mid=1_8SZuP7IvR3SbZuBo75ICCO2JWaXeb8</value></Data>
+        <Data name="created_date"><value>2026-01-20</value></Data>
+        <Data name="data_year"><value>2025</value></Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              77.328702,19.146988,0
+              77.329123,19.14734,0
+              77.329368,19.147495,0
+              77.328592,19.147562,0
+              77.328132,19.147608,0
+              77.327903,19.147647,0
+              77.327507,19.147715,0
+              77.327353,19.147798,0
+              77.327076,19.148024,0
+              77.326705,19.148016,0
+              77.326332,19.148026,0
+              77.326107,19.148048,0
+              77.325833,19.148142,0
+              77.325523,19.148252,0
+              77.325423,19.148248,0
+              77.325161,19.148245,0
+              77.325129,19.148529,0
+              77.324879,19.14851,0
+              77.324828,19.14859,0
+              77.324729,19.148594,0
+              77.324721,19.148711,0
+              77.324529,19.148739,0
+              77.324308,19.148753,0
+              77.324298,19.149077,0
+              77.324213,19.149327,0
+              77.323636,19.149286,0
+              77.323626,19.148879,0
+              77.323591,19.147763,0
+              77.323414,19.14703,0
+              77.323651,19.146943,0
+              77.323318,19.146341,0
+              77.323288,19.146241,0
+              77.32323,19.146068,0
+              77.323157,19.145864,0
+              77.323059,19.145723,0
+              77.322957,19.145627,0
+              77.32285,19.14532,0
+              77.322844,19.14506,0
+              77.322859,19.14489,0
+              77.32279,19.144516,0
+              77.322757,19.144456,0
+              77.323018,19.144137,0
+              77.323103,19.144008,0
+              77.323168,19.143909,0
+              77.323269,19.1438,0
+              77.323148,19.143574,0
+              77.323008,19.14332,0
+              77.322949,19.143217,0
+              77.3229,19.143001,0
+              77.322856,19.142833,0
+              77.32278,19.142507,0
+              77.322512,19.141388,0
+              77.327287,19.13899,0
+              77.327488,19.140286,0
+              77.327906,19.14022,0
+              77.327931,19.140636,0
+              77.327912,19.140869,0
+              77.328022,19.141314,0
+              77.328062,19.141518,0
+              77.328293,19.141874,0
+              77.328426,19.142229,0
+              77.328572,19.14276,0
+              77.328705,19.143149,0
+              77.328778,19.143438,0
+              77.328885,19.143888,0
+              77.32897,19.144265,0
+              77.329177,19.144605,0
+              77.329241,19.144898,0
+              77.329341,19.145353,0
+              77.329285,19.145688,0
+              77.32905,19.146013,0
+              77.328922,19.146177,0
+              77.328806,19.146325,0
+              77.328682,19.146443,0
+              77.3285,19.146571,0
+              77.328405,19.146865,0
+              77.328702,19.146988,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
