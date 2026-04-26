@@ -1,8 +1,8 @@
-﻿name: Deploy Homepage (GitHub Pages)
+name: Deploy Homepage (GitHub Pages)
 
 on:
   push:
-    branches: [main]
+    branches: [main, feat-website]
     paths:
       - "site/**"
       - "data/**"
