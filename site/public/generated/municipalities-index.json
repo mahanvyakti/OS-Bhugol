@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-26T17:02:02.791961+00:00",
+  "repo_url": "https://github.com/mahanvyakti/OS-Bhugol",
+  "municipalities": [
+    {
+      "id": "maharashtra-nanded-nanded-waghala-city-municipal-corporation",
+      "slug": "nanded-waghala-city-municipal-corporation",
+      "name": "Nanded Waghala City Municipal Corporation",
+      "name_local": "नांदेड वाघाळा शहर महानगरपालिका",
+      "type": "municipal_corporation",
+      "state": "Maharashtra",
+      "district": "Nanded",
+      "paths": {
+        "root": "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation",
+        "meta": "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/_meta.json",
+        "boundary": null,
+        "wards": [
+          "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.geojson",
+          "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.kml"
+        ],
+        "sources": [
+          "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/sources/.gitkeep",
+          "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/sources/README.md",
+          "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/sources/wards.kml"
+        ]
+      },
+      "map": {
+        "geometry_source": "dissolved_wards",
+        "geometry_path": "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.geojson",
+        "centroid": {
+          "lat": 19.1564,
+          "lng": 77.313907
+        }
+      },
+      "stats": {
+        "ward_count": 20,
+        "file_count": 66,
+        "formats_available": [
+          "GeoJSON",
+          "KML"
+        ]
+      },
+      "last_updated": "2026-01-20",
+      "links": {
+        "folder": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation",
+        "meta": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/_meta.json",
+        "geometry_raw": "https://raw.githubusercontent.com/mahanvyakti/OS-Bhugol/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.geojson"
+      }
+    },
+    {
+      "id": "maharashtra-parbhani-parbhani-municipal-corporation",
+      "slug": "parbhani-municipal-corporation",
+      "name": "Parbhani Municipal Corporation",
+      "name_local": "परभणी महानगरपालिका",
+      "type": "municipal_corporation",
+      "state": "Maharashtra",
+      "district": "Parbhani",
+      "paths": {
+        "root": "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation",
+        "meta": "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/_meta.json",
+        "boundary": null,
+        "wards": [
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/wards/wards.geojson",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/wards/wards.kml"
+        ],
+        "sources": [
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/.gitkeep",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/README.md",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagar_palika_prabhag_rachna_map.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-01-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-02-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-03-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-04-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-05-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-06-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-07-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-08-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-09-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-10-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-11-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-12-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-13-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-14-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-15-min.jpg",
+          "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/sources/mahanagarpalika-Ward-16-min.jpg"
+        ]
+      },
+      "map": {
+        "geometry_source": "dissolved_wards",
+        "geometry_path": "data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/wards/wards.geojson",
+        "centroid": {
+          "lat": 19.27125,
+          "lng": 76.781478
+        }
+      },
+      "stats": {
+        "ward_count": 16,
+        "file_count": 23,
+        "formats_available": [
+          "GeoJSON",
+          "KML"
+        ]
+      },
+      "last_updated": "2026-01-18",
+      "links": {
+        "folder": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation",
+        "meta": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/_meta.json",
+        "geometry_raw": "https://raw.githubusercontent.com/mahanvyakti/OS-Bhugol/main/data/india/maharashtra/districts/parbhani/municipalities/parbhani-municipal-corporation/wards/wards.geojson"
+      }
+    },
+    {
+      "id": "maharashtra-pune-pune-municipal-corporation",
+      "slug": "pune-municipal-corporation",
+      "name": "Pune Municipal Corporation",
+      "name_local": "पुणे महानगरपालिका",
+      "type": "municipal_corporation",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "paths": {
+        "root": "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation",
+        "meta": "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/_meta.json",
+        "boundary": null,
+        "wards": [
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards/wards.geojson",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards/wards.kml",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards_2022/wards.geojson",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards_2022/wards.kml"
+        ],
+        "sources": [
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/sources/Final-All-Wards-Pune-Map-Latest.pdf",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/sources/PMC Electoral Wards 2022.kml",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/sources/PMC Electoral Wards 2025.kml",
+          "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/sources/README.md"
+        ]
+      },
+      "map": {
+        "geometry_source": "dissolved_wards",
+        "geometry_path": "data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards/wards.geojson",
+        "centroid": {
+          "lat": 18.504943,
+          "lng": 73.867194
+        }
+      },
+      "stats": {
+        "ward_count": 58,
+        "file_count": 308,
+        "formats_available": [
+          "GeoJSON",
+          "KML"
+        ]
+      },
+      "last_updated": "2025-11-02",
+      "links": {
+        "folder": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation",
+        "meta": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/_meta.json",
+        "geometry_raw": "https://raw.githubusercontent.com/mahanvyakti/OS-Bhugol/main/data/india/maharashtra/districts/pune/municipalities/pune-municipal-corporation/wards/wards.geojson"
+      }
+    }
+  ]
+}

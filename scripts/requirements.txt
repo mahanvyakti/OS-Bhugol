@@ -1,0 +1,5 @@
+﻿# Requirements for OS-Bhugol scripts
+# Install with: pip install -r requirements.txt
+
+# Core dependency for geometry dissolve/union used by homepage index builder
+shapely>=2.0.0

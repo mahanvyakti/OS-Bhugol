@@ -1,0 +1,21 @@
+{
+  "name": "os-bhugol-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:data": "python ../scripts/build_homepage_index.py --repo-root .. --output-manifest ./public/generated/municipalities-index.json --output-geojson ./public/generated/municipalities-map.geojson",
+    "build": "npm run build:data && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^5.4.19"
+  }
+}
