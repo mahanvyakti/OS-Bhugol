@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>30 Jai Bhavaninagar - Kelewadi</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>30 Jai Bhavaninagar - Kelewadi</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>30</value></Data>
+        <Data name="ward_name_en"><value>30 Jai Bhavaninagar - Kelewadi</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग ३० : जय भवानीनगर - केळेवाडी</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>3.1066</value></Data>
+        <Data name="perimeter_km"><value>8.6033</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/30_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.82701,18.5192 73.82624,18.51705 73.82491,18.51604 73.82476,18.51559 73.82465,18.51471 73.8244,18.51467 73.82426,18.51341 73.82408,18.5134 73.82411,18.51241 73.82416,18.51213 73.82424,18.51198 73.8241,18.51191 73.82441,18.51129 73.82469,18.51067 73.82496,18.51029 73.82537,18.50985 73.8255,18.50972 73.8259,18.50889 73.82622,18.50777 73.82666,18.50632 73.82549,18.50585 73.82508,18.50563 73.82473,18.50603 73.82445,18.50621 73.82396,18.50668 73.82287,18.508 73.8223,18.50866 73.82153,18.50954 73.82113,18.50991 73.8208,18.51019 73.82026,18.51047 73.81924,18.51049 73.81871,18.51047 73.81773,18.51038 73.81733,18.51029 73.81673,18.51017 73.81633,18.51006 73.81574,18.50994 73.81545,18.50996 73.81523,18.50985 73.8146,18.50966 73.81428,18.50961 73.8137,18.50956 73.81324,18.50955 73.81251,18.50951 73.81223,18.50947 73.81181,18.50939 73.81154,18.50929 73.81136,18.50917 73.81105,18.50898 73.81074,18.5087 73.81046,18.50844 73.8102,18.50837 73.80994,18.50835 73.80957,18.50828 73.80932,18.50824 73.80918,18.50819 73.8091,18.50873 73.80902,18.50953 73.80901,18.50996 73.80904,18.51225 73.80906,18.51251 73.80762,18.51241 73.80773,18.51278 73.8078,18.51313 73.8078,18.51354 73.80787,18.51553 73.80604,18.5156 73.80589,18.51562 73.80589,18.5197 73.80588,18.52159 73.80593,18.52171 73.80597,18.52195 73.80603,18.52442 73.80603,18.5246 73.80699,18.52465 73.80745,18.52474 73.80921,18.52476 73.80965,18.52481 73.81024,18.52447 73.81081,18.52429 73.81131,18.52422 73.81247,18.52435 73.81232,18.5246 73.81244,18.52442 73.81305,18.52479 73.81363,18.52519 73.81421,18.52563 73.81478,18.52633 73.81583,18.52557 73.81768,18.52424 73.81812,18.52341 73.81902,18.523 73.82059,18.52209 73.82131,18.52164 73.82229,18.52091 73.82359,18.52027 73.82467,18.52013 73.82701,18.5192
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

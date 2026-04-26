@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>15 Gokhalenagar - Vadarwadi</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>15 Gokhalenagar - Vadarwadi</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>15</value></Data>
+        <Data name="ward_name_en"><value>15 Gokhalenagar - Vadarwadi</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग १५ : गोखलेनगर - वडारवाडी</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>4.7986</value></Data>
+        <Data name="perimeter_km"><value>11.3745</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/15_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.82994,18.53915 73.83019,18.53789 73.83028,18.53747 73.83029,18.53655 73.83008,18.53139 73.82996,18.52901 73.83158,18.52913 73.8328,18.52933 73.83347,18.52951 73.83535,18.52986 73.83556,18.52936 73.83614,18.52828 73.83647,18.52794 73.83705,18.5276 73.83767,18.52727 73.83776,18.52721 73.83685,18.52591 73.83619,18.52491 73.83606,18.52482 73.83602,18.52487 73.83582,18.52518 73.83555,18.5256 73.83545,18.52564 73.83514,18.52581 73.83479,18.52612 73.83478,18.52636 73.83417,18.52648 73.83322,18.52655 73.83155,18.52539 73.83088,18.52493 73.83245,18.52369 73.83048,18.52341 73.83041,18.522 73.82925,18.52211 73.82944,18.52275 73.82939,18.5228 73.82878,18.52197 73.8275,18.51948 73.82701,18.5192 73.82467,18.52013 73.82359,18.52027 73.82229,18.52091 73.82131,18.52164 73.82059,18.52209 73.81902,18.523 73.81812,18.52341 73.81768,18.52424 73.81583,18.52557 73.81478,18.52633 73.81421,18.52563 73.81363,18.52519 73.81305,18.52479 73.81244,18.52442 73.81232,18.5246 73.81167,18.52574 73.81103,18.52711 73.81071,18.52901 73.81052,18.52946 73.81037,18.52976 73.81006,18.53029 73.80817,18.53399 73.80773,18.53425 73.80728,18.53451 73.80692,18.535 73.8047,18.53494 73.80384,18.53772 73.80407,18.53776 73.80479,18.53776 73.80577,18.53806 73.80612,18.53824 73.80757,18.53865 73.80886,18.53902 73.81006,18.53926 73.81129,18.53952 73.81247,18.53966 73.81259,18.53967 73.81379,18.53976 73.81681,18.53999 73.81868,18.54017 73.81946,18.54026 73.82166,18.54101 73.82379,18.54153 73.82433,18.54167 73.82523,18.54172 73.82591,18.54176 73.82681,18.54186 73.8288,18.5422 73.83081,18.54084 73.83015,18.54046 73.82979,18.54014 73.82974,18.53974 73.82994,18.53915
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
