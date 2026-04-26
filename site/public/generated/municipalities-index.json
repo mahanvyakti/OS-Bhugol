@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-04-26T12:57:10.176013+00:00",
+  "generated_at": "2026-04-26T17:02:02.791961+00:00",
   "repo_url": "https://github.com/mahanvyakti/OS-Bhugol",
   "municipalities": [
     {
       "id": "maharashtra-nanded-nanded-waghala-city-municipal-corporation",
       "slug": "nanded-waghala-city-municipal-corporation",
       "name": "Nanded Waghala City Municipal Corporation",
-      "name_local": null,
-      "type": "municipality",
+      "name_local": "नांदेड वाघाळा शहर महानगरपालिका",
+      "type": "municipal_corporation",
       "state": "Maharashtra",
       "district": "Nanded",
       "paths": {
         "root": "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation",
-        "meta": null,
+        "meta": "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/_meta.json",
         "boundary": null,
         "wards": [
           "data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.geojson",
@@ -34,17 +34,17 @@
         }
       },
       "stats": {
-        "ward_count": null,
-        "file_count": 65,
+        "ward_count": 20,
+        "file_count": 66,
         "formats_available": [
           "GeoJSON",
           "KML"
         ]
       },
-      "last_updated": null,
+      "last_updated": "2026-01-20",
       "links": {
         "folder": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation",
-        "meta": null,
+        "meta": "https://github.com/mahanvyakti/OS-Bhugol/blob/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/_meta.json",
         "geometry_raw": "https://raw.githubusercontent.com/mahanvyakti/OS-Bhugol/main/data/india/maharashtra/districts/nanded/municipalities/nanded-waghala-city-municipal-corporation/wards/wards.geojson"
       }
     },

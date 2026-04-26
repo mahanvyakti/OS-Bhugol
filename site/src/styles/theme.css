@@ -1,36 +1,45 @@
-﻿@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap");
 
 :root {
   color-scheme: light;
-  --font-heading: "Space Grotesk", "Segoe UI", sans-serif;
-  --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-heading: "Outfit", "Segoe UI", sans-serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
 
-  --bg: #f6f7fb;
+  /* Bento Neutrals */
+  --bg: #f8f9fa;
   --surface: #ffffff;
-  --surface-muted: #eef1f7;
-  --text: #141925;
-  --text-muted: #4a5670;
-  --accent: #1a73e8;
-  --accent-strong: #145bbc;
-  --border: #d8deeb;
-  --chip-bg: #edf4ff;
-  --chip-text: #12468f;
-  --shadow: 0 10px 25px rgba(21, 36, 64, 0.08);
+  --surface-muted: #f1f3f5;
+  --bento-border: #1a1a1a;
+  
+  /* Text */
+  --text: #1a1a1a;
+  --text-muted: #666666;
+  
+  /* Accents */
+  --accent: #228be6;
+  --accent-strong: #1971c2;
+  --accent-light: rgba(34, 139, 230, 0.1);
+  
+  /* Misc */
+  --shadow: 4px 4px 0px rgba(0, 0, 0, 0.05);
+  --radius: 8px;
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #0f1420;
-  --surface: #151d2b;
-  --surface-muted: #202c3f;
-  --text: #f2f6ff;
-  --text-muted: #b2bfd6;
-  --accent: #5ea6ff;
-  --accent-strong: #8abfff;
-  --border: #32435f;
-  --chip-bg: #1f314f;
-  --chip-text: #cde1ff;
-  --shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
+  --bg: #141414;
+  --surface: #1a1a1a;
+  --surface-muted: #252525;
+  --bento-border: #404040;
+  
+  --text: #f8f9fa;
+  --text-muted: #adb5bd;
+  
+  --accent: #4dabf7;
+  --accent-strong: #74c0fc;
+  
+  --shadow: 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
 * { box-sizing: border-box; }
@@ -42,25 +51,44 @@ html, body, #root {
 
 body {
   font-family: var(--font-body);
-  background: radial-gradient(circle at 10% 5%, rgba(35, 91, 190, 0.12), transparent 35%),
-    radial-gradient(circle at 90% 15%, rgba(32, 204, 144, 0.09), transparent 32%),
-    var(--bg);
+  background: var(--bg);
   color: var(--text);
+  line-height: 1.6;
 }
 
-a { color: var(--accent); }
-a:hover { color: var(--accent-strong); }
+a { 
+  color: var(--accent);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+a:hover { color: var(--accent-strong); text-decoration: underline; }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: var(--font-heading);
-  line-height: 1.2;
+  font-weight: 700;
+  line-height: 1.1;
   margin: 0;
+  letter-spacing: -0.01em;
 }
 
-p { margin: 0; }
-
-code {
-  background: var(--surface-muted);
-  padding: 0.05rem 0.35rem;
-  border-radius: 0.375rem;
+.bento-box {
+  background: var(--surface);
+  border: 1px solid var(--bento-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
 }
+
+.bento-header {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--bento-border);
+  margin: -1.5rem -1.5rem 1.5rem -1.5rem;
+  padding: 0.75rem 1.5rem;
+}
+

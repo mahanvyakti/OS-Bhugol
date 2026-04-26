@@ -9,7 +9,7 @@
         "state": "Maharashtra",
         "district": "Nanded",
         "geometry_source": "dissolved_wards",
-        "last_updated": null
+        "last_updated": "2026-01-20"
       },
       "geometry": {
         "type": "MultiPolygon",

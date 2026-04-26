@@ -1,19 +1,15 @@
-﻿export default function HeroSection({ municipalityCount }) {
+export default function HeroSection() {
   return (
-    <section className="hero section-card" aria-labelledby="hero-title">
-      <p className="eyebrow">Open geospatial boundaries for India</p>
-      <h1 id="hero-title">OS-Bhugol makes civic boundaries usable for builders.</h1>
-      <p className="hero-copy">
-        A clean, versioned collection of machine-readable municipal boundaries and related layers.
-        Start with municipality-level map views here, then dive deeper into the repository for richer data.
+    <section className="bento-box bento-hero" aria-labelledby="hero-title">
+      <div className="bento-header">Context</div>
+      <h1 id="hero-title">Open civic boundaries for builders.</h1>
+      <p>
+        Machine-readable municipal and ward-level geographic data, 
+        versioned and ready for your next civic-tech project.
       </p>
-      <div className="hero-stats" role="status" aria-live="polite">
-        <span>{municipalityCount} municipalities indexed</span>
-      </div>
-      <div className="hero-actions">
-        <a className="btn btn-primary" href="#map">View data map</a>
-        <a className="btn btn-ghost" href="https://github.com/mahanvyakti/OS-Bhugol" target="_blank" rel="noreferrer">Open GitHub repo</a>
-        <a className="btn btn-ghost" href="https://github.com/mahanvyakti/OS-Bhugol/blob/main/CONTRIBUTING.md" target="_blank" rel="noreferrer">How to contribute</a>
+      <div className="hero-actions" style={{ justifyContent: 'flex-start', marginTop: '1.5rem' }}>
+        <a className="btn btn-primary" href="#map">Explore Map</a>
+        <a className="btn" href="https://github.com/mahanvyakti/OS-Bhugol" target="_blank" rel="noreferrer">GitHub Repo</a>
       </div>
     </section>
   );

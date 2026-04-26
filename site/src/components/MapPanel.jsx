@@ -43,10 +43,10 @@ export default function MapPanel({ mapData, municipalities, selectedId, onSelect
     return (feature) => {
       const isSelected = feature.properties?.id === selectedId;
       return {
-        color: isSelected ? "#ff7a00" : "#2f84ff",
-        weight: isSelected ? 3 : 2,
-        fillColor: isSelected ? "#ffb066" : "#4fa0ff",
-        fillOpacity: isSelected ? 0.45 : 0.2
+        color: isSelected ? "hsl(230, 85%, 60%)" : "hsl(215, 20%, 50%)",
+        weight: isSelected ? 3 : 1.5,
+        fillColor: isSelected ? "hsl(230, 85%, 60%)" : "hsl(215, 20%, 60%)",
+        fillOpacity: isSelected ? 0.3 : 0.1
       };
     };
   }, [selectedId]);
@@ -107,47 +107,61 @@ export default function MapPanel({ mapData, municipalities, selectedId, onSelect
   };
 
   return (
-    <section id="map" className="section-card" aria-labelledby="map-title">
-      <div className="section-head map-head">
-        <h2 id="map-title">Municipality Boundary Map</h2>
-        <button type="button" className="btn btn-small" onClick={resetView}>Reset view</button>
-      </div>
-      <p className="muted">Only municipality-level outlines are shown on the map. Individual wards are intentionally excluded.</p>
+    <div className="map-container">
+      <div className="map-canvas" ref={mapHostRef} role="region" aria-label="Municipality boundary map" />
+      <aside className="map-sidebar" aria-live="polite">
+        <div className="sidebar-list-container">
+          <div className="stat-label" style={{ marginBottom: '0.75rem' }}>Select Municipality</div>
+          <ul className="sidebar-list" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+            {municipalities.map((m) => (
+              <li key={m.id}>
+                <button
+                  type="button"
+                  className={`sidebar-item ${selectedId === m.id ? "selected" : ""}`}
+                  onClick={() => onSelect(m.id)}
+                >
+                  {m.name}
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
 
-      <div className="map-wrap">
-        <div className="map-canvas" ref={mapHostRef} role="region" aria-label="Municipality boundary map" />
-        <aside className="map-sidebar" aria-live="polite">
-          <div className="sidebar-list-container">
-            <h3>Municipalities</h3>
-            <ul className="sidebar-list">
-              {municipalities.map((m) => (
-                <li key={m.id}>
-                  <button
-                    type="button"
-                    className={`sidebar-item ${selectedId === m.id ? "selected" : ""}`}
-                    onClick={() => onSelect(m.id)}
-                  >
-                    {m.name}
-                  </button>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {selectedMunicipality && (
-            <div className="sidebar-details section-card">
-              <h4>{selectedMunicipality.name}</h4>
-              <p className="small">{selectedMunicipality.district}, {selectedMunicipality.state}</p>
-              <hr />
-              <p className="muted small">Geometry: <code>{selectedMunicipality.map.geometry_source}</code></p>
-              <p className="muted small">Updated: {selectedMunicipality.last_updated || "N/A"}</p>
-              <p className="muted small">Files: {selectedMunicipality.stats.file_count}</p>
-              <a className="btn btn-ghost btn-small" href={`https://github.com/mahanvyakti/OS-Bhugol/tree/main/${selectedMunicipality.paths.root}`} target="_blank" rel="noreferrer">GitHub Folder</a>
+        {selectedMunicipality ? (
+          <div className="sidebar-details">
+            <div className="stat-label">Detailed Info</div>
+            <h4 style={{ margin: '0.25rem 0' }}>{selectedMunicipality.name}</h4>
+            <p className="muted" style={{ fontSize: '0.8rem', marginBottom: '1rem' }}>
+              {selectedMunicipality.district}, {selectedMunicipality.state}
+            </p>
+            
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              <a 
+                href={`https://github.com/mahanvyakti/OS-Bhugol/tree/main/${selectedMunicipality.paths?.root}`} 
+                target="_blank" 
+                rel="noreferrer" 
+                className="btn btn-small"
+                style={{ width: '100%', justifyContent: 'center' }}
+              >
+                Browse Data
+              </a>
+              <a 
+                href={selectedMunicipality.links?.geometry_raw} 
+                download 
+                className="btn btn-primary btn-small"
+                style={{ width: '100%', justifyContent: 'center' }}
+              >
+                Download GeoJSON
+              </a>
             </div>
-          )}
-        </aside>
-      </div>
-    </section>
+          </div>
+        ) : (
+          <div className="sidebar-details" style={{ textAlign: 'center', opacity: 0.5 }}>
+            <p className="stat-label">Select from list or map</p>
+          </div>
+        )}
+      </aside>
+    </div>
   );
 }
 

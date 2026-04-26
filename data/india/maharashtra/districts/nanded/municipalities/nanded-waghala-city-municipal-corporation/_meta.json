@@ -1,0 +1,21 @@
+{
+  "name": "Nanded Waghala City Municipal Corporation",
+  "name_local": "नांदेड वाघाळा शहर महानगरपालिका",
+  "type": "municipal_corporation",
+  "parent": {
+    "district": "Nanded",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "units": {
+    "wards": 20
+  },
+  "sources": [
+    {
+      "title": "MC Nanded Waghala Wards",
+      "url": "https://www.google.com/maps/d/viewer?mid=1_8SZuP7IvR3SbZuBo75ICCO2JWaXeb8",
+      "accessed": "2026-01-20"
+    }
+  ],
+  "last_updated": "2026-01-20"
+}
