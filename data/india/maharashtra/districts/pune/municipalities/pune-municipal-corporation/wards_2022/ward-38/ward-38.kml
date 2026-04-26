@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>38 Shivdarshan - Padmavati</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>38 Shivdarshan - Padmavati</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>38</value></Data>
+        <Data name="ward_name_en"><value>38 Shivdarshan - Padmavati</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग ३८ : शिवदर्शन - पद्मावती</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>2.7521</value></Data>
+        <Data name="perimeter_km"><value>9.4574</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/38_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.85853,18.50065 73.85828,18.49907 73.85807,18.49788 73.85797,18.49706 73.85791,18.49669 73.85798,18.49632 73.85791,18.49526 73.85787,18.49446 73.85781,18.4933 73.85767,18.49201 73.8576,18.4907 73.85746,18.48951 73.85738,18.48891 73.85739,18.48819 73.85744,18.48727 73.85748,18.48658 73.85754,18.4853 73.85746,18.48417 73.85738,18.48355 73.85724,18.48266 73.85716,18.48209 73.85718,18.47852 73.85715,18.4776 73.85707,18.47727 73.85677,18.47684 73.8565,18.47645 73.85631,18.47598 73.85629,18.47533 73.85632,18.47453 73.85504,18.47451 73.85401,18.47445 73.85341,18.47447 73.85317,18.47463 73.85255,18.4751 73.85161,18.47598 73.85125,18.47639 73.85102,18.47675 73.8509,18.4771 73.85056,18.47895 73.85027,18.48067 73.84989,18.48329 73.8498,18.48367 73.84975,18.48408 73.84977,18.48486 73.84993,18.48547 73.8501,18.48604 73.8501,18.48636 73.84988,18.48859 73.84984,18.48943 73.85048,18.48958 73.85044,18.48963 73.8504,18.48987 73.85041,18.49113 73.85044,18.49159 73.85058,18.49194 73.85087,18.49243 73.8509,18.4927 73.85092,18.49301 73.85096,18.4932 73.85128,18.49403 73.85133,18.49489 73.85137,18.49504 73.85155,18.4953 73.85147,18.49538 73.85111,18.49553 73.85031,18.49584 73.84956,18.49627 73.84922,18.49643 73.8493,18.49669 73.84941,18.49717 73.84955,18.49788 73.84963,18.49809 73.84973,18.49817 73.84995,18.49839 73.85007,18.49858 73.85023,18.4989 73.84999,18.49901 73.84976,18.49917 73.84945,18.49941 73.84903,18.49971 73.84887,18.4998 73.84861,18.49986 73.84825,18.49988 73.847,18.49989 73.84668,18.49987 73.84632,18.49973 73.84588,18.50106 73.84575,18.50121 73.84561,18.5012 73.84544,18.50209 73.8455,18.50218 73.84577,18.50218 73.84605,18.50213 73.84674,18.50212 73.84724,18.50219 73.84727,18.50226 73.84738,18.50218 73.84822,18.50219 73.84824,18.50424 73.84943,18.50441 73.84951,18.50443 73.84941,18.50583 73.85008,18.50594 73.85063,18.50593 73.85041,18.50783 73.85042,18.50791 73.8505,18.50784 73.85281,18.50616 73.85329,18.50581 73.85401,18.50518 73.85454,18.50474 73.85533,18.50414 73.85671,18.50289 73.85809,18.50157 73.85851,18.50118 73.85853,18.50065
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

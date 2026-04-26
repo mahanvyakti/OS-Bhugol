@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ward 23</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>Ward 23</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>23</value></Data>
+        <Data name="ward_name_en"><value>Ward 23</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग २३</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>1.1051</value></Data>
+        <Data name="perimeter_km"><value>6.9385</value></Data>
+        <Data name="author"><value>Parisar</value></Data>
+        <Data name="source_url"><value>https://data.opencity.in/dataset/pune-wards-info/resource/2badcc86-489c-4b7e-b7dd-a273ef01b798</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2025</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.8620700681893,18.5187538307088 73.8620731011653,18.5185362581429 73.8622012237751,18.5182455563203 73.8623823379348,18.5180732070665 73.86298465562,18.517794050569 73.8628017107993,18.5166753733725 73.8627413740862,18.5163829434954 73.8628361152009,18.5161805514419 73.8636144805398,18.516180280393 73.8647769792275,18.5154350166601 73.86591946429,18.5154260308485 73.8659337542002,18.5167852689335 73.8685306790306,18.5168039942568 73.8684526819775,18.5175543883793 73.8692563651896,18.5175560280055 73.869638895268,18.517463269482 73.8700417457637,18.5173104358645 73.8704849190719,18.5169593478514 73.8711467663371,18.5161820810256 73.8711012759405,18.5144646740513 73.8719960521498,18.5106958907862 73.8755659297097,18.5110918039865 73.8760690402091,18.510507409143 73.8761724200182,18.5101710929575 73.8765497509939,18.5095004016607 73.8770243163592,18.5088380215558 73.8767435071566,18.5076588484407 73.8766576386109,18.507670163007 73.8756519742163,18.5080545948042 73.8724299051133,18.5092862343736 73.8682649654149,18.5107479927409 73.8661241188757,18.5117400808699 73.8658540721324,18.5109860168821 73.864156116021,18.5111639389704 73.8640191234256,18.5106928384267 73.8620222522159,18.5105620279094 73.8617782736855,18.5130784007243 73.8612381524724,18.513221356029 73.8606041053672,18.5131826871506 73.8597026594893,18.5129340960667 73.8584789940611,18.5127930565248 73.8582463909572,18.5138305932063 73.8579493866347,18.5158243824642 73.857909821296,18.51689928279 73.8561840965921,18.51687770521 73.8561451601712,18.5185463894044 73.8568023274394,18.5185741631202 73.8572626105054,18.5187765408257 73.8589321162396,18.5188004845538 73.8596904911709,18.5186862530861 73.8605642447768,18.5191716982382 73.8613042326583,18.5191750237266 73.8617309691446,18.5192485606084 73.8623356233915,18.5194164385069 73.8620700681893,18.5187538307088
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

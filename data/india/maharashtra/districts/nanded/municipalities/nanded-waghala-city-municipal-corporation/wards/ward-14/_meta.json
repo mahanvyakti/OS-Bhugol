@@ -1,0 +1,30 @@
+{
+  "name": "Ward 14",
+  "name_local": "प्रभाग १४",
+  "type": "ward",
+  "ward_number": 14,
+  "parent": {
+    "municipality": "Nanded Waghala City Municipal Corporation",
+    "district": "Nanded",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "sources": [
+    {
+      "title": "Ward Delimitation Map",
+      "url": "https://www.google.com/maps/d/viewer?mid=1_8SZuP7IvR3SbZuBo75ICCO2JWaXeb8",
+      "accessed": "2026-01-20",
+      "department": "Nanded Waghala City Municipal Corporation"
+    }
+  ],
+  "data_files": {
+    "kml": "ward-14.kml",
+    "geojson": "ward-14.geojson"
+  },
+  "contributors": [
+    "MC Nanded Waghala",
+    "mahanvyakti"
+  ],
+  "created": "2026-01-20",
+  "last_updated": "2026-01-20"
+}

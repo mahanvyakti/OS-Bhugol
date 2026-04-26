@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>11 Bopodi - Savitribai Phule Pune University</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>11 Bopodi - Savitribai Phule Pune University</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>11</value></Data>
+        <Data name="ward_name_en"><value>11 Bopodi - Savitribai Phule Pune University</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग ११ : बोपोडी - सावित्रीबाई फुले पुणे विद्यापीठ</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>7.1302</value></Data>
+        <Data name="perimeter_km"><value>16.7179</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/11_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.84375,18.57075 73.84349,18.56763 73.84077,18.56766 73.84079,18.56727 73.83964,18.56562 73.83934,18.56535 73.83885,18.56506 73.83885,18.56498 73.84025,18.56287 73.83934,18.56216 73.83869,18.56181 73.83707,18.56097 73.83673,18.56074 73.83542,18.56005 73.83367,18.55918 73.83264,18.55858 73.83288,18.55676 73.83476,18.55113 73.83497,18.54854 73.83429,18.54813 73.83404,18.54747 73.83417,18.54674 73.83453,18.54532 73.83773,18.54442 73.84008,18.54421 73.84057,18.54434 73.84076,18.54393 73.84074,18.54338 73.84062,18.54306 73.8404,18.5429 73.83984,18.54286 73.83931,18.54291 73.83911,18.54281 73.83897,18.54247 73.8388,18.54223 73.83882,18.54122 73.83822,18.54071 73.83794,18.54045 73.83753,18.5401 73.83744,18.54022 73.83728,18.54086 73.83654,18.54115 73.83539,18.54018 73.83383,18.53863 73.83691,18.53624 73.83503,18.53377 73.8346,18.53321 73.83433,18.53297 73.83421,18.53295 73.83482,18.53109 73.83535,18.52986 73.83347,18.52951 73.8328,18.52933 73.83158,18.52913 73.82996,18.52901 73.83008,18.53139 73.83029,18.53655 73.83028,18.53747 73.83019,18.53789 73.82994,18.53915 73.82974,18.53974 73.82979,18.54014 73.83015,18.54046 73.83081,18.54084 73.8288,18.5422 73.82805,18.54273 73.82765,18.54309 73.82678,18.5442 73.82172,18.55109 73.81838,18.55579 73.81447,18.5608 73.81378,18.56185 73.81317,18.5633 73.81226,18.56518 73.81175,18.56656 73.81148,18.56724 73.81148,18.56786 73.81271,18.56789 73.8133,18.56805 73.81425,18.56836 73.81772,18.56886 73.82112,18.56932 73.82213,18.56937 73.82311,18.56916 73.82505,18.56862 73.82666,18.56819 73.82732,18.56811 73.82798,18.5681 73.82874,18.56838 73.82934,18.56868 73.82999,18.56936 73.83047,18.57009 73.83122,18.57195 73.83188,18.57299 73.83237,18.57342 73.83317,18.57386 73.83452,18.57461 73.83554,18.57516 73.83641,18.57537 73.83714,18.57538 73.83773,18.57528 73.83849,18.57501 73.84082,18.57399 73.84279,18.57317 73.84413,18.57273 73.84375,18.57075
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>

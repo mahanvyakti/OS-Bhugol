@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>48 Upper Super Indiranagar</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>48 Upper Super Indiranagar</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>48</value></Data>
+        <Data name="ward_name_en"><value>48 Upper Super Indiranagar</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग ४८ : अप्पर सुपर इंदिरानगर</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>1.5073</value></Data>
+        <Data name="perimeter_km"><value>5.8773</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/48_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.875,18.47223 73.87505,18.47209 73.87511,18.47183 73.87513,18.47153 73.87513,18.47131 73.87519,18.47122 73.87528,18.47109 73.87548,18.47052 73.87602,18.46899 73.87613,18.46867 73.87631,18.46804 73.87653,18.46733 73.87661,18.46697 73.87683,18.46618 73.87688,18.46598 73.87697,18.46578 73.87717,18.46546 73.87737,18.46509 73.87746,18.46488 73.8775,18.46474 73.87752,18.46469 73.87763,18.46426 73.87778,18.46231 73.87783,18.46162 73.87781,18.46127 73.87771,18.46125 73.87615,18.46123 73.87474,18.46124 73.87316,18.46124 73.87245,18.46122 73.87163,18.46119 73.87103,18.46117 73.87066,18.46114 73.87047,18.46112 73.87024,18.46109 73.87005,18.46107 73.86962,18.46104 73.86888,18.46101 73.8682,18.46101 73.86765,18.46107 73.86727,18.46112 73.86694,18.46118 73.86676,18.46121 73.86663,18.46125 73.86648,18.4613 73.86638,18.46135 73.86631,18.46143 73.86572,18.46207 73.86535,18.46248 73.86524,18.46271 73.86508,18.46316 73.86541,18.46325 73.86573,18.46331 73.86592,18.46331 73.86616,18.46333 73.86644,18.46334 73.86677,18.46337 73.86732,18.46342 73.86733,18.46404 73.86735,18.46424 73.86744,18.46437 73.8676,18.46448 73.86777,18.46455 73.86764,18.46459 73.8666,18.46479 73.86625,18.46484 73.86525,18.46486 73.86469,18.46484 73.86464,18.46568 73.86463,18.46655 73.86462,18.46667 73.86457,18.46692 73.86445,18.46761 73.86423,18.46865 73.86397,18.47018 73.86387,18.47067 73.86362,18.47154 73.86337,18.47204 73.86316,18.47257 73.86294,18.47269 73.86423,18.47283 73.86493,18.47282 73.86637,18.47285 73.86647,18.47199 73.86784,18.47214 73.86871,18.47219 73.86897,18.47242 73.86924,18.47215 73.86944,18.47203 73.86982,18.47186 73.87041,18.47171 73.87101,18.47149 73.87153,18.47138 73.87184,18.47135 73.8722,18.47135 73.87294,18.47127 73.87363,18.47127 73.87358,18.47225 73.87452,18.47235 73.87481,18.47241 73.87487,18.47225 73.875,18.47223
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
