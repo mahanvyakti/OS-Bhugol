@@ -1,0 +1,30 @@
+{
+  "name": "Ward 22",
+  "name_local": "प्रभाग २२",
+  "type": "ward",
+  "ward_number": 22,
+  "parent": {
+    "municipality": "Pune Municipal Corporation",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "sources": [
+    {
+      "title": "Pune Electoral Wards 2025",
+      "url": "https://webadmin.pmc.gov.in/sites/default/files/2025-10/Final-All-Wards-Pune-Map-Latest.pdf?VersionId=10175b5d-24a7-48ff-9fe0-e597085af517",
+      "accessed": "2025-11-02",
+      "department": "Pune Municipal Corporation"
+    }
+  ],
+  "data_files": {
+    "kml": "ward-22.kml",
+    "geojson": "ward-22.geojson"
+  },
+  "contributors": [
+    "Parisar",
+    "mahanvyakti"
+  ],
+  "created": "2025-11-02",
+  "last_updated": "2025-11-02"
+}

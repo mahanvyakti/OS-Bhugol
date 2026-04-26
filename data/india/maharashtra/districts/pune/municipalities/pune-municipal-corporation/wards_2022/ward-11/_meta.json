@@ -1,0 +1,30 @@
+{
+  "name": "11 Bopodi - Savitribai Phule Pune University",
+  "name_local": "प्रभाग ११ : बोपोडी - सावित्रीबाई फुले पुणे विद्यापीठ",
+  "type": "ward",
+  "ward_number": 11,
+  "parent": {
+    "municipality": "Pune Municipal Corporation",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "sources": [
+    {
+      "title": "Pune Electoral Wards 2022",
+      "url": "https://data.opencity.in/dataset/pune-wards-info/resource/db368dd7-03ab-458f-a17d-ac87e04f11fb",
+      "accessed": "2025-11-02",
+      "department": "Pune Municipal Corporation"
+    }
+  ],
+  "data_files": {
+    "kml": "ward-11.kml",
+    "geojson": "ward-11.geojson"
+  },
+  "contributors": [
+    "Nikhil VJ",
+    "mahanvyakti"
+  ],
+  "created": "2025-11-02",
+  "last_updated": "2025-11-02"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Pune Municipal Corporation",
+  "name_local": "पुणे महानगरपालिका",
+  "type": "municipal_corporation",
+  "parent": {
+    "district": "Pune",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "location": {
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  "units": {
+    "wards_2022": 58,
+    "wards": 41
+  },
+  "sources": [
+    {
+      "title": "Pune Electoral Wards Map - 2022",
+      "type": "opendata",
+      "description": "Map of Pune Municipal Corporation electoral wards from 2022. There are 58 wards as delimited in 2022.",
+      "url": "https://data.opencity.in/dataset/pune-wards-info/resource/db368dd7-03ab-458f-a17d-ac87e04f11fb",
+      "accessed": "2025-11-02",
+      "department": "Pune Municipal Corporation"
+    },
+    {
+      "title": "PMC Electoral Wards 2025",
+      "type": "opendata",
+      "description": "Electoral wards for 2025 with 41 wards.",
+      "url": "https://data.opencity.in/dataset/pune-wards-info/resource/2badcc86-489c-4b7e-b7dd-a273ef01b798",
+      "accessed": "2025-11-02",
+      "department": "Pune Municipal Corporation"
+    }
+  ],
+  "data_files": {
+    "wards_2022": {
+      "kml": "wards_2022/wards.kml",
+      "geojson": "wards_2022/wards.geojson"
+    },
+    "wards": {
+      "kml": "wards/wards.kml",
+      "geojson": "wards/wards.geojson"
+    }
+  },
+  "contributors": ["Nikhil VJ", "Parisar", "mahanvyakti"],
+  "created": "2025-11-02",
+  "last_updated": "2025-11-02",
+  "notes": "Electoral wards data sourced from OpenCity.in, credited to Nikhil VJ (2022) and Parisar (2025). Added by mahanvyakti.",
+  "known_issues": []
+}

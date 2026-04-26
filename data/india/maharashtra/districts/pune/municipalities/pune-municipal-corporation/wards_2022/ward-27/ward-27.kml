@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>27 Kasewadi - Lohiyanagar</name>
+    <description>Part of OS-Bhugol open geographic data project</description>
+    <Placemark>
+      <name>27 Kasewadi - Lohiyanagar</name>
+      <ExtendedData>
+        <Data name="ward_number"><value>27</value></Data>
+        <Data name="ward_name_en"><value>27 Kasewadi - Lohiyanagar</value></Data>
+        <Data name="ward_name_mr"><value>प्रभाग २७ : कासेवाडी - लोहियानगर</value></Data>
+        <Data name="entity_type"><value>ward</value></Data>
+        <Data name="parent_municipality"><value>Pune Municipal Corporation</value></Data>
+        <Data name="parent_municipality_mr"><value>पुणे महानगरपालिका</value></Data>
+        <Data name="district"><value>Pune</value></Data>
+        <Data name="district_mr"><value>पुणे</value></Data>
+        <Data name="state"><value>Maharashtra</value></Data>
+        <Data name="state_mr"><value>महाराष्ट्र</value></Data>
+        <Data name="country"><value>India</value></Data>
+        <Data name="country_mr"><value>भारत</value></Data>
+        <Data name="area_sq_km"><value>0.9468</value></Data>
+        <Data name="perimeter_km"><value>5.1343</value></Data>
+        <Data name="author"><value>Nikhil VJ</value></Data>
+        <Data name="source_url"><value>http://www.pmc.gov.in/sites/default/files/final_ward_maps/27_F_Ward.pdf</value></Data>
+        <Data name="created_date"><value>2025-11-02</value></Data>
+        <Data name="data_year"><value>2022</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.87187,18.51067 73.87206,18.51066 73.87253,18.51072 73.87321,18.51079 73.8739,18.5109 73.87557,18.51106 73.87565,18.51103 73.87576,18.51094 73.87607,18.51055 73.8761,18.51052 73.87614,18.51027 73.87646,18.50972 73.87661,18.50943 73.87669,18.50927 73.87687,18.50905 73.87703,18.50886 73.87685,18.50809 73.87676,18.50766 73.87639,18.50677 73.87594,18.50697 73.87574,18.50649 73.87486,18.50678 73.87455,18.50585 73.8745,18.50579 73.87441,18.50574 73.87428,18.5057 73.87325,18.50547 73.87355,18.50436 73.87357,18.50433 73.87422,18.50358 73.87453,18.50321 73.87464,18.50309 73.87467,18.50306 73.87471,18.50292 73.87478,18.50253 73.87483,18.50229 73.87488,18.50201 73.87488,18.50196 73.87481,18.50195 73.87477,18.50195 73.87438,18.50194 73.87336,18.5019 73.87254,18.50188 73.87182,18.50186 73.87116,18.50185 73.87079,18.50183 73.8701,18.50169 73.86962,18.50159 73.86935,18.50153 73.86892,18.50144 73.86825,18.50123 73.86716,18.50078 73.86595,18.50021 73.86564,18.50009 73.86527,18.5 73.86527,18.5005 73.86531,18.50078 73.8653,18.50096 73.86523,18.50112 73.86505,18.50139 73.86498,18.50158 73.86495,18.50171 73.865,18.50203 73.86511,18.50257 73.8654,18.50284 73.86548,18.50292 73.86562,18.50296 73.86594,18.50297 73.86604,18.503 73.86607,18.50304 73.86607,18.50315 73.86621,18.50377 73.86622,18.50386 73.86621,18.504 73.86616,18.50425 73.86609,18.50478 73.86609,18.50479 73.86601,18.50533 73.86596,18.50607 73.86629,18.50605 73.86748,18.506 73.86767,18.506 73.86781,18.50602 73.86796,18.50607 73.86825,18.50618 73.86846,18.50626 73.86845,18.50675 73.86835,18.50706 73.86829,18.50742 73.86824,18.50781 73.86821,18.5082 73.86818,18.50912 73.86817,18.5096 73.86817,18.50988 73.86824,18.51035 73.86835,18.51084 73.86852,18.51126 73.86862,18.51148 73.86865,18.51162 73.86868,18.5119 73.86871,18.51238 73.8687,18.51264 73.86868,18.51299 73.86868,18.51308 73.86896,18.51302 73.86911,18.51293 73.86924,18.51279 73.86946,18.51259 73.8699,18.51186 73.86995,18.51161 73.87013,18.51138 73.87047,18.51115 73.87084,18.51099 73.87187,18.51067
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
