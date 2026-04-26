@@ -1,0 +1,12 @@
+﻿:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.leaflet-container {
+  font-family: var(--font-body);
+}
+
+a, button {
+  transition: border-color 0.2s ease, color 0.2s ease, background-color 0.2s ease;
+}
